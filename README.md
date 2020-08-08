@@ -2,7 +2,7 @@
   <h1 align="center">KEYBOARD</h1>
 </p>
 
-![](https://raw.githubusercontent.com/lalithakunchala/keyboard/master/keyboard.png)
+![]https://raw.githubusercontent.com/lalithakunchala/keyboard/master/Keyboard.png)
   
 
 ## Instructions to run locally
