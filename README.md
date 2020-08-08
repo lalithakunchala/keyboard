@@ -11,6 +11,6 @@
 ```
 git clone https://github.com/lalithakunchala/keyboard.git
 
-cd masai-sprint-2
+run locally
 
 ```
